@@ -1,4 +1,6 @@
-# Kubestronauts top metrics
+# Kubestronaut Metrics: Top Countries Rankings
+
+Blog post: [Kubestronaut Metrics: Top Countries Rankings](https://dojobits.io/blog/kubestronaut-metrics-top-countries-and-ranking/)
 
 <p align="center">
   <img src="./img/kubestronaut.png" width="200" height="200">
@@ -76,6 +78,17 @@ If you decide to put it in your shell Reload the shell configuration to apply th
 
 Ensure the virtual environment is active and run your Python script:
 
+<details>
+
+<summary>Run the script</summary>
+
 ```bash
-python kubestronaut.py
+$ python3 kubestronauts.py
+Starting Selenium to scrape Kubestronaut data...
+Scraped 5 regions and 79 countries.
+Fetching populations asynchronously...
+Starting population fetch for all countries...
+...
+...
 ```
+</details>
