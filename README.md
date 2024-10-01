@@ -92,3 +92,6 @@ Starting population fetch for all countries...
 ...
 ```
 </details>
+
+[Chris Abraham](https://github.com/cjyabraham) - https://github.com/DojoBits/cncf-kubestronauts/issues/1
+Just wanted to mention that instead of scraping the data from the web page, you could import the data from [this file](https://github.com/cncf/people/blob/main/people.json) and filter on "category": "Kubestronaut". That is the central source for all the data on [the Kubestronaut webpage](https://www.cncf.io/training/kubestronaut/).
